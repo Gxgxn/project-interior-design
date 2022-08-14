@@ -1,4 +1,4 @@
-# Interior Design Landing Page![shield](https://img.shields.io/badge/Project-Landing%20page-red) ![shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![shield](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# Interior Design Landing Page ![shield](https://img.shields.io/badge/Project-Landing%20page-red) ![shield](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![shield](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 This project is part of full stack Javascript web-dev bootcamp hosted by [iNeuron.](https://ineuron.ai/)
 
 ## [Live Preview](https://project-interior-design-three.vercel.app/) :link:
